@@ -20,9 +20,9 @@ time, mark, audio, video {
 }
 
 :root {
-  --primary-color: 24, 69%;
+  --primary-color: rgb(3, 136, 252);
   --l: 53%;
-  --secondary-color: 180, 22%, 45%;
+  --secondary-color: 120, 22%, 45%;
   --tertiary-color: 0, 0%, 25%;
 }
 

@@ -1,7 +1,7 @@
 header {
   --color: hsl(var(--primary-color), var(--l));
   background-color: var(--color);
-  height: 60px;
+  height: 100px;
   width: 100%;
   display: flex;
   flex-direction: row;
